@@ -12,3 +12,4 @@ Do these first!
   - How can I specify arbitrary source?
 - [ ] Goto repo page and use Helix Sidekick Chrome extension to 'Add Project'
   - https://github.com/adobe/helix-sidekick-extension
+- [ ] Push!
